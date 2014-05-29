@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 289e140966b644c5ba9804e5ae6343ad
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: dragons_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 142
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 344
+        width: 152
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 375
+        width: 86
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 355
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 355
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 355
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 329
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 329
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 329
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 206
+        width: 26
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 219
+        width: 27
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 331
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 330
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 311
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 311
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 311
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 306
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 306
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 306
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 306
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 306
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 306
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 306
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 306
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 306
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 306
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 295
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 295
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 295
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 279
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 279
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 279
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 219
+        width: 123
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: dragons_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 22
+        width: 411
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
