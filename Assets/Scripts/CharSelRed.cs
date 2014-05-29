@@ -24,7 +24,7 @@ public class CharSelRed : MonoBehaviour {
 		}
 	}
 
-	void OnMouseOver ()
+	void OnMouseEnter ()
 	{
 		guiText.color = Color.red;
 		overRed = true;

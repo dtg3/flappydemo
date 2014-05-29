@@ -23,7 +23,7 @@ public class CharSelFlappy : MonoBehaviour {
 		}
 	}
 
-	void OnMouseOver ()
+	void OnMouseEnter ()
 	{
 		overFlappy = true;
 	}

@@ -24,7 +24,7 @@ public class CharSelBlue : MonoBehaviour {
 		}
 	}
 
-	void OnMouseOver ()
+	void OnMouseEnter ()
 	{
 		overBlue = true;
 	}
