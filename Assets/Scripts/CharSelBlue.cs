@@ -5,6 +5,7 @@ public class CharSelBlue : MonoBehaviour {
 
 	public static bool overBlue;
 	Animator animator;
+	GUIText text;
 
 	// Use this for initialization
 	void Start () {
@@ -16,11 +17,7 @@ public class CharSelBlue : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (overBlue) {
-			guiText.color = Color.blue;
 			animator.SetTrigger("DoFlap");
-		}
-		else {
-			guiText.color = Color.white;
 		}
 	}
 

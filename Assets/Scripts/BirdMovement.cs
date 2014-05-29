@@ -10,10 +10,11 @@ public class BirdMovement : MonoBehaviour {
 	public bool dead = false;
 
 	float deathCooldown;
-
 	public bool iddqd = false;
 
 	Animator animator;
+
+	public AudioClip[] sfx;
 
 	// Use this for initialization
 	void Start () {
@@ -39,6 +40,7 @@ public class BirdMovement : MonoBehaviour {
 		}
 		else {
 			if(Input.GetKeyDown(KeyCode.Space)) {
+				audio.PlayOneShot(sfx[0]);
 				didFlap = true;
 			}
 		}
@@ -69,6 +71,7 @@ public class BirdMovement : MonoBehaviour {
 
 	void OnCollisionEnter2D(Collision2D collision) {
 		if (!iddqd) {
+			audio.PlayOneShot(sfx[1]);
 			if (!dead) {
 				animator.SetTrigger ("Death");
 				dead = true;

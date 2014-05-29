@@ -16,17 +16,16 @@ public class CharSelRed : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (overRed) {
-			guiText.color = Color.red;
+			//guiText.color = Color.red;
 			animator.SetTrigger("DoFlap");
 		}
 		else {
-			guiText.color = Color.white;
+			//guiText.color = Color.white;
 		}
 	}
 
 	void OnMouseEnter ()
 	{
-		guiText.color = Color.red;
 		overRed = true;
 	}
 
@@ -37,7 +36,6 @@ public class CharSelRed : MonoBehaviour {
 	
 	void OnMouseExit ()
 	{
-		guiText.color = Color.white;
 		overRed = false;
 	}
 }

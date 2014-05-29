@@ -15,11 +15,11 @@ public class CharSelFlappy : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (overFlappy) {
-			guiText.color = Color.yellow;
+			//guiText.color = Color.yellow;
 			animator.SetTrigger("DoFlap");
 		}
 		else {
-			guiText.color = Color.white;
+			//guiText.color = Color.white;
 		}
 	}
 

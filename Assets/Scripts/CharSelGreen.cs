@@ -16,11 +16,11 @@ public class CharSelGreen : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (overGreen) {
-			guiText.color = Color.green;
+			//guiText.color = Color.green;
 			animator.SetTrigger("DoFlap");
 		}
 		else {
-			guiText.color = Color.white;
+			//guiText.color = Color.white;
 		}
 	}
 
